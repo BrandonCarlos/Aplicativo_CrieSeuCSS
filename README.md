@@ -7,6 +7,6 @@
 - CSS
 - JAVASCRIPT
 
-Crie seu CSS na WEB -> <a href="https://editar-css.netlify.app/">
+Crie seu CSS na WEB -> <a href="https://editar-css.netlify.app/">Clique aqui</a>
 
 Feito com muito ❤️ por Brandon Carlos

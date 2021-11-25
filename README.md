@@ -1,4 +1,4 @@
-# Aplicativo_CrieSeuCSS
+# Aplicativo: Crie Seu CSS de forma customizada
 <p> Sistema desenvolvido com HTML, CSS e Javascript criei este sistema com o intuito de manipular o Javascript e assim todos podem criar seu CSS custumizado e colar diretamente em seu editor de código.</p>
 <img src="./crieSeuCSS.gif">
 
